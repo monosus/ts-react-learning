@@ -10,7 +10,8 @@ setupt
 
 option
 
-`yarn add @emotion/react @emotion/babel-plugin`
-
-
 `yarn add -D next-export-optimize-images`
+`yarn add @emotion/react @emotion/styled @emotion/babel-plugin`
+
+
+
