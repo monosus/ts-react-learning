@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.9.0"
+  },
+  "devDependencies": {
+    "@emotion/babel-plugin": "^11.9.2"
+  }
+}
